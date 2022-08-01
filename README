@@ -1,0 +1,24 @@
+# Leitner Flashcards
+
+Leitner Flashcards is a memorization tool that uses the Leitner system. It comes with 3-4 dummy questions and ~40
+generic questions about Python.
+
+In short, every question you answer correctly
+
+Read more about the [Leitner system](https://www.mindedge.com/learning-science/the-leitner-system-how-does-it-work/)
+
+## Installation
+
+Fork the project
+
+## Usage
+
+python3 main.py
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
